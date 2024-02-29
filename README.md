@@ -1,4 +1,5 @@
 # EcommerceApp 
+#it is using Devops for CI/CD pipeline
 
 ### It is Java J2EE Application. Build in Eclipse IDE using Maven Project.
 ## It is an Online Electronic Shopping Application. 
